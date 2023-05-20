@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Silkscreen', cursive;
+  margin: 20px;
+  background-color: #000000;
+  color:  #ffeb13;
+  text-align: center;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
